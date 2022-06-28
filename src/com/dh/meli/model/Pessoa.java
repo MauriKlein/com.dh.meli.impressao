@@ -1,7 +1,5 @@
 package com.dh.meli.model;
 
-import java.util.List;
-
 public class Pessoa{
     private String nome;
     private int idade;

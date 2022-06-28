@@ -2,7 +2,6 @@ package com.dh.meli.model;
 
 public class Livro extends Documento{
 
-    //número de páginas, nome do autor, título e gênero
     private int numeroPaginas;
     private String autor;
     private String titulo;
